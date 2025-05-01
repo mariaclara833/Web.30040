@@ -15,4 +15,11 @@ background-color: silver;
     border-radius: 10px;
     text-align: center;
 }
+img{
+    max-width: 55%;
+    max-height: 55%;
+    width: auto;
+    height: auto;
+    
 
+}
